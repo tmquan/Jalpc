@@ -1,12 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: 
+  i18n: tmquan
+  gh_user: tmquan
+  repo: tmquan
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+  desc: "H. Choi, W. Choi, T. M. Quan, D. G. C. Hildebrand, H. Pfister, and W.-K. Jeong, “Vivaldi: a domain-specific language for
+volume processing and visualization on distributed heterogeneous systems", IEEE Transactions on Visualization and Computer
+Graphics (TVCG), Vol. 20, Iss. 12, pp. 2407-2416, 2014."
 
 # - name: Python
 #   i18n: cpython
