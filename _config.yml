@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Tran Minh Quan  # Be used at blog posts' author.
   first_name: Tran Minh  # Be used at index page about me section.
   last_name: Quan  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/quantm.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/gpgpu.jpg  # upload your avatar at directory and edit it.
   github_username: tmquan  # Leave blank if you don't have now
   linkedin_id: tmquan2090 # Leave blank if you don't have now
   # facebook_username: jiakunnj  # Leave blank if you don't have now
