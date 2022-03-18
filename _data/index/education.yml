@@ -1,34 +1,59 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Smart Sensor Architecture Lab, KAIST
+    detail: Le Hong Phong High School for Gifted, Vietnam.
     i18n: 
   desc:
     detail: 
-      "Implement the algorithm for object detection using C/C++.\n 
-       Implement the hardware for object detection using Verilog."
     i18n: 
   date:
-    detail: Aug 2010
+    detail: 2003 - 2006
     i18n: 
   job:
-    detail: Research Intern
+    detail: Department of Chemistry
     i18n: 
   icon: fa-plus-square
 
 - name:
-    detail: Korea National Nano Fabrication Center, KAIST
+    detail: Ho Chi Minh University of Technology, Vietnam.
     i18n: 
   desc:
-    detail: 
-      "Design Applications with Micro Controller.\n 
-       Build Laboratory Homepage."
+    detail: Partially Completed
     i18n: 
   date:
-    detail: Dec 2009
+    detail: 2006 - 2008
     i18n: 
   job:
-    detail: Research Intern
+    detail: Department of Computer Science and Engineering
+    i18n: 
+  icon: fa-plus-square
+
+
+- name:
+    detail: Korea Advanced Institute of Science and Technology, South Korea.
+    i18n: 
+  desc:
+    detail: Bachelor of Science
+    i18n: 
+  date:
+    detail: 2008 - 2012
+    i18n: 
+  job:
+    detail: Department of Electrical Engineering
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: Ulsan National Institute of Science and Technology, South Korea.
+    i18n: 
+  desc:
+    detail: Doctor of Philosophy
+    i18n: 
+  date:
+    detail: 2012 - 2019
+    i18n: 
+  job:
+    detail: Department of Electrical Engineering
     i18n: 
   icon: fa-plus-square
 
