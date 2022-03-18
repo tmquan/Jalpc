@@ -31,7 +31,12 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     # - name: icon-apache
-  desc: He is currently an affiliated lecturer at VinUniversity, a member of VinGroup, the largest enterprise in Vietnam by capitalization. \nHe got a B.S. degree in Electrical Engineering at KAIST (2012) and received a Ph.D. degree in Computer Science, focused on GPU Computing, at UNIST (2019), both from South Korea. His research interests are image-to-image translation, inverse problems, and high-performance visual computing, specialized for bio-medical image processing and applications. \nHis domain of image modalities concentrates on X-ray, CT, MRI. All are centered around using GPU-accelerated computing to understand biomedical image data. Recently, he has been working on Deep learning-based Generative Adversarial Networks on various problems (neural volume rendering, variationally reconstructed radiographs, anatomical graph)."
+  desc: 
+    He is currently an affiliated lecturer at VinUniversity, a member of VinGroup, the largest enterprise in Vietnam by capitalization. \nHe got a B.S. degree in Electrical Engineering at KAIST (2012) and received a Ph.D. degree in Computer Science, focused on GPU Computing, at UNIST (2019), both from South Korea. 
+
+    His research interests are image-to-image translation, inverse problems, and high-performance visual computing, specialized for bio-medical image processing and applications. 
+
+    His domain of image modalities concentrates on X-ray, CT, MRI. All are centered around using GPU-accelerated computing to understand biomedical image data. Recently, he has been working on Deep learning-based Generative Adversarial Networks on various problems (neural volume rendering, variationally reconstructed radiographs, anatomical graph)."
 
 # # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
