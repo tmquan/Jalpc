@@ -1,13 +1,13 @@
 <div class="container" id="i18_publications">
     <div class="row m-b-lg">
-        <div class="col-lg-12 text-justify">
+        <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
             <h1><span data-i18n="publications.my_publications">Publications</span></h1>
         </div>
     </div>
     <div class="row">
         {% for publication in site.data.index.publications %}
-            {% assign loopindex = forloop.index | modulo: 1 %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
             <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
