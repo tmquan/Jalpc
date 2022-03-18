@@ -5,7 +5,8 @@
     i18n: 
   desc:
     detail: >
-      Implement the algorithm for object detection using C/C++.
+      Implement the algorithm for object detection using C/C++. 
+      
       Implement the hardware for object detection using Verilog.
     i18n: 
   date:
@@ -22,6 +23,7 @@
   desc:
     detail: >
       Design Applications with Micro Controller. 
+
       Build Laboratory Homepage.
     i18n: 
   date:
