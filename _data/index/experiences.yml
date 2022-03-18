@@ -5,7 +5,7 @@
     detail: Korea National Nano Fabrication Center, KAIST
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        Design Applications with Micro Controller.\n 
        Build Laboratory Homepage. 
     i18n: 
@@ -22,7 +22,7 @@
     detail: Smart Sensor Architecture Lab, KAIST
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        Implement the algorithm for object detection using C/C++.\n 
        Implement the hardware for object detection using Verilog. 
     i18n: 
@@ -39,7 +39,7 @@
     detail: Convergence Optoelectronic Device Engineering Lab, KAIST
     i18n: 
   desc:
-    detail: Design Algorithms for reconstruction of computer-generated holograms (CGHs)
+    detail: >| Design Algorithms for reconstruction of computer-generated holograms (CGHs)
     i18n: 
   date:
     detail: Dec 2010
@@ -53,7 +53,7 @@
     detail: Convergence Optoelectronic Device Engineering Lab, KAIST
     i18n: 
   desc:
-    detail: Design Algorithms for reducing error from captured images of damaged Hologram ID Tags.
+    detail: >| Design Algorithms for reducing error from captured images of damaged Hologram ID Tags.
     i18n: 
   date:
     detail: May 2011
@@ -68,7 +68,7 @@
     detail: L&Y Vision Technologies Corporation, Daejeon, South Korea
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        Design Algorithms for Shot Boundaries Detection in Video Sequences.\n 
        Design Process of MPEG-2 Video Enhancement. 
     i18n: 
@@ -85,7 +85,7 @@
     detail: High Performance Visual Computing Lab, UNIST
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        GPU Computing, Compressed Sensing MRI Reconstruction. \n
        High-performance Computing on Heterogeneous Parallel Systems. 
     i18n: 
@@ -102,7 +102,7 @@
     detail: Harvard University, Cambridge, MA, USA. 
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        Design Algorithms for Intelligent Volume Rendering. 
     i18n: 
   date:
@@ -117,7 +117,7 @@
     detail: Harvard Medical School, Boston, MA, USA. 
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        Design Models for Connectomics denoising and segmentation. 
     i18n: 
   date:
@@ -133,7 +133,7 @@
     detail: Cinnamon, Ho Chi Minh City, Vietnam. 
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        Design Models for layout auto correction, textline segmentation in document images.\n
        Design Models for stamp localization in driving licenses. 
     i18n: 
@@ -150,7 +150,7 @@
     detail: VinBrain, Ho Chi Minh City, Vietnam. 
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        Design Models for COVID-19 detection in X-ray images using inverse rendering techniques from CT images.\n
        Design Models for COVID-19 detection in X-ray images using GANs.\n
        Design Models for Lung segmentation in X-ray images.\n
@@ -168,7 +168,7 @@
     detail: VinUniversity, Hanoi, Vietnam. 
     i18n: 
   desc:
-    detail: 
+    detail: >| 
        Design Models for X-ray image projection using GANs. 
     i18n: 
   date:
