@@ -4,7 +4,7 @@
     detail: Smart Sensor Architecture Lab, KAIST
     i18n: 
   desc:
-    detail: |
+    detail: >
       Implement the algorithm for object detection using C/C++.
       Implement the hardware for object detection using Verilog.
     i18n: 
@@ -20,8 +20,8 @@
     detail: Korea National Nano Fabrication Center, KAIST
     i18n: 
   desc:
-    detail: |
-      Design Applications with Micro Controller.\n 
+    detail: >
+      Design Applications with Micro Controller. 
       Build Laboratory Homepage.
     i18n: 
   date:
