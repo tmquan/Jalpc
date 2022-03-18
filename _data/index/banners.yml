@@ -5,5 +5,5 @@
 - src: landing/munich.jpg
   title: first banner image
 
-- src: landing/boston.jpg
-  title: second banner image
+# - src: landing/boston.jpg
+#   title: second banner image
