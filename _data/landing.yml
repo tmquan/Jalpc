@@ -11,6 +11,12 @@
 #   name: Career
 #   tpl: career.html
 #   css: timeline
+- id: education
+  i18n: nav.education
+  name: education
+  tpl: education.html
+  css: timeline
+
 
 - id: experiences
   i18n: nav.experiences
