@@ -1,0 +1,70 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Campaign Medal (Award of Excellence) in Australian National Chemistry Quiz
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Jun 2005
+
+- name: Full Undergraduate Scholarship from KAIST
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Feb 2008
+
+- name: Full Graduate Scholarship from UNIST
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Feb 2012
+
+- name: IEEE SPS Student Travel Grant
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Jun 2014
+
+- name: KAGGLE challenge - Diabetic Retinopathy Detection, 124th/661 (Top 19%)
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Dec 2014
+
+- name: MICCAI Student Travel Grant
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Apr 2015
+
+- name: KAGGLE challenge - Second Annual Data Science Bowl, 65th/192 (Top 34%)
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Dec 2015
+
+- name: MICCAI Student Travel Grant
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Apr 2016
+
+- name: NAVER PhD Fellowship
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Aug 2016
+
+
+- name: ISMRM Educational Stipend
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Jun 2018
+
+
+- name: ACM SIGAI Industry Award for Excellence in Artificial Intelligence
+  i18n: tmquan
+  img: /static/assets/img/publications/.png
+  desc: |-
+    Aug 2021

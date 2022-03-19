@@ -107,10 +107,10 @@
 
 - name: IEEE ISBI 2022
   i18n: tmquan
-  img: /static/assets/img/publications/huy_nerp_2022.jpg
+  img: /static/assets/img/publications/huy_nerp_2022.png
   desc: |-
     P. N. Huy, T. M. Quan, "Neural Radiance Projection", in Proc. of IEEE ISBI, 2022, to appear. 
-    
+
 
 # - name: Python
 #   i18n: cpython
