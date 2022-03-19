@@ -1,0 +1,30 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Fast Compressive Sensing MRI Reconstruction on a Multi-GPU System
+    i18n: 
+  desc:
+    detail:  NVIDIA GPU Technology Conference at San Jose, California, USA
+    i18n: 
+  date:
+    detail: Mar 2013 
+    i18n: 
+  job:
+    detail: Invited Speaker
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: Various optimization strategies for implementing fast discrete wavelet transforms on GPUs
+    i18n: 
+  desc:
+    detail: NVIDIA GPU Technology Conference at Seoul, South Korea
+    i18n: 
+  date:
+    detail: Oct 2016
+    i18n: 
+  job:
+    detail: Invited Speaker
+    i18n: 
+  icon: fa-plus-square
+

@@ -43,6 +43,18 @@
   tpl: teaching.html
   css: timeline
 
+- id: awards
+  i18n: nav.awards
+  name: awards
+  tpl: awards.html
+  css: award
+
+- id: talk
+  i18n: nav.talk
+  name: talk
+  tpl: talk.html
+  css: timeline
+
 # - id: blog
 #   i18n: nav.blog
 #   name: Blog
