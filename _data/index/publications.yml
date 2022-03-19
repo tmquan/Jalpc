@@ -71,6 +71,18 @@
     N.-D. Thanh, T. M. Quan, and W.-K. Jeong, "Frequency-splitting Dynamic MRI Reconstruction using Multi-scale 3D Convolutional Sparse Coding and Automatic Parameter Selection", Medical Image Analysis (MedIA), Vol. 53, pp. 179-196, 2019.
 
 
+- name: IEEE ICCVW 2019
+  i18n: tmquan
+  img: /static/assets/img/publications/quantm_lci_2019.png
+  desc: |-
+    T. M. Quan, K. G. Lee, Logan A. Thomas, Aaron T. Kuan, D. G. C. Hildebrand, Wei-Chung Allen Lee, and W.-K. Jeong, "Removing Imaging Artifacts in Electron Microscopy using an Asymmetrically Cyclic Adversarial Network without Paired Training Data", in proceedings of ICCVW, 2019.
+
+- name: Water 2020
+  i18n: tmquan
+  img: /static/assets/img/publications/kim_water_2020.png
+  desc: |-
+    T. T. Kim, N. T. M. Huong, N. D. Q. Huy, P. A. Tai, S. Hong, T. M. Quan, N. T. Bay, W.-K. Jeong, N. K. Phung, "Assessment of the Impact of Sand Mining on Bottom Morphology in the Mekong River in An Giang Province, Vietnam, Using a Hydro-Morphological Model with GPU Computing", Water, Vol. 12, Iss. 10, pp.2912-2302, 2020
+
 # - name: Python
 #   i18n: cpython
 #   gh_user: python
