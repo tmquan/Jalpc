@@ -58,6 +58,18 @@
   desc: |-
     T. M. Quan, N.-D. Thanh, and W.-K. Jeong, "Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks", Annual Meeting International Society for Magnetic Resonance in Medicine (ISMRM), 2018, pp. 3370.
 
+- name: IEEE TMI 2018
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_2018_refinegan.png
+  desc: |-
+    T. M. Quan, N.-D. Thanh, and W.-K. Jeong, "Compressed Sensing MRI Reconstruction using a Generative Adversarial Network with a Cyclic Loss", IEEE Transactions on Medical Imaging (TMI), Vol. 37, Iss. 6, pp. 1488-1497, 2018.
+
+- name: MEDIA 2019
+  i18n: tmquan
+  img: /static/assets/img/publications/thanh_frequency_2019.png
+  desc: |-
+    N.-D. Thanh, T. M. Quan, and W.-K. Jeong, "Frequency-splitting Dynamic MRI Reconstruction using Multi-scale 3D Convolutional Sparse Coding and Automatic Parameter Selection", Medical Image Analysis (MedIA), Vol. 53, pp. 179-196, 2019.
+
 
 # - name: Python
 #   i18n: cpython
