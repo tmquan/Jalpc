@@ -34,6 +34,13 @@
     T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic MRI using GPU-accelerated 3D convolutional sparse coding", in proceedings of MICCAI, 2016, pp. 484-492.
 
 
+- name: IEEE TPDS 2016
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_fast_2016.png
+  desc: |-
+    T. M. Quan and W.-K. Jeong, "A fast discrete wavelet transform using hybrid parallelism on GPUs", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 27, iss. 11, pp. 3088-3100, 2016.    
+
+
 # - name: Python
 #   i18n: cpython
 #   gh_user: python
