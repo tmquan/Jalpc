@@ -55,12 +55,12 @@
   tpl: talk.html
   css: timeline
 
-# - id: blog
-#   i18n: nav.blog
-#   name: Blog
-#   tpl: blog.html
-#   page: blog/
-#   css: testimonials navy-section
+- id: blog
+  i18n: nav.blog
+  name: Blog
+  tpl: blog.html
+  page: blog/
+  css: testimonials navy-section
 
 # - id: links
 #   i18n: nav.link
