@@ -19,7 +19,7 @@
   desc: |-
     Feb 2012
 
-- name: IEEE SPS Student Travel Grant
+- name: IEEE SPS Travel Grant
   i18n: tmquan
   img: /static/assets/img/awards/sps.jpeg
   desc: |-
@@ -31,7 +31,7 @@
   desc: |-
     Dec 2014
 
-- name: MICCAI Student Travel Grant
+- name: MICCAI Travel Grant
   i18n: tmquan
   img: /static/assets/img/awards/miccai.jpg
   desc: |-
@@ -43,7 +43,7 @@
   desc: |-
     Dec 2015
 
-- name: MICCAI Student Travel Grant
+- name: MICCAI Travel Grant
   i18n: tmquan
   img: /static/assets/img/awards/miccai.jpg
   desc: |-
