@@ -3,13 +3,13 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: IEEE TVCG 2014
   i18n: tmquan
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/publications/choi_vivaldi_2014.png
   desc: |-
     H. Choi, W. Choi, T. M. Quan, D. G. C. Hildebrand, H. Pfister, and W.-K. Jeong, "Vivaldi: a domain-specific language for volume processing and visualization on distributed heterogeneous systems", IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. 20, Iss. 12, pp. 2407-2416, 2014.
 
 - name: IEEE ICIP 2014
   i18n: tmquan
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/publications/quan_wavelet_2014.png
   desc: |-
     T. M. Quan and W.-K. Jeong, "A fast Mixed-Band lifting wavelet transform on the GPU", in proceedings of IEEE ICIP, 2014, pp. 1238-1242.
 
