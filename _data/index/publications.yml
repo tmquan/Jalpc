@@ -75,7 +75,7 @@
   i18n: tmquan
   img: /static/assets/img/publications/quantm_lci_2019.png
   desc: |-
-    T. M. Quan, K. G. Lee, Logan A. Thomas, Aaron T. Kuan, D. G. C. Hildebrand, Wei-Chung Allen Lee, and W.-K. Jeong, "Removing Imaging Artifacts in Electron Microscopy using an Asymmetrically Cyclic Adversarial Network without Paired Training Data", in Proc. of ICCVW, 2019.
+    T. M. Quan, K. G. Lee, Logan A. Thomas, Aaron T. Kuan, D. G. C. Hildebrand, Wei-Chung Allen Lee, and W.-K. Jeong, "Removing Imaging Artifacts in Electron Microscopy using an Asymmetrically Cyclic Adversarial Network without Paired Training Data", in Proc. of IEEE ICCVW, 2019.
 
 - name: Water 2020
   i18n: tmquan
