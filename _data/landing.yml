@@ -37,6 +37,12 @@
   tpl: publications.html
   css: publication
 
+- id: teaching
+  i18n: nav.teaching
+  name: teaching
+  tpl: teaching.html
+  css: timeline
+
 # - id: blog
 #   i18n: nav.blog
 #   name: Blog

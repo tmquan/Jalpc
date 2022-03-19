@@ -1,0 +1,28 @@
+<div class="container" id="i18_teaching">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="teaching.my_teaching">Teaching</span></h1>
+        </div>
+    </div>
+    <div class="row features-block">
+        <div class="col-lg-12">
+            <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
+            {% for teaching in site.data.index.teaching %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+                <div class="vertical-timeline-block">
+                    <div class="vertical-timeline-icon {% if teaching.present ==  true %} navy-bg-present {% else %} navy-bg {% endif %} wow rotateIn">
+                        <i class="fa {{ teaching.icon }}"></i>
+                    </div>
+                    <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
+                        <h2><span data-i18n="teaching.{{ teaching.name.i18n }}">{{ teaching.name.detail }}</span></h2>
+                        <p><span data-i18n="teaching.{{ teaching.desc.i18n }}">{{ teaching.desc.detail }} </span></p>
+                        <span class="vertical-date"><span data-i18n="teaching.{{ teaching.date.i18n }}"> {{ teaching.date.detail }} </span>
+                        <br/> <small><span data-i18n="teaching.{{ teaching.job.i18n }}">{{ teaching.job.detail }}</span></small> </span>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
