@@ -12,26 +12,26 @@
   i18n: tmquan
   img: /static/assets/img/publications/quan_wavelet_2014.png
   desc: |-
-    T. M. Quan and W.-K. Jeong, "A fast Mixed-Band lifting wavelet transform on the GPU", in proceedings of IEEE ICIP, 2014, pp. 1238-1242.
+    T. M. Quan and W.-K. Jeong, "A fast Mixed-Band lifting wavelet transform on the GPU", in Proc. of IEEE ICIP, 2014, pp. 1238-1242.
 
 - name: MICCAI 2015
   i18n: tmquan
   img: /static/assets/img/publications/quan_multi_2015.png
   desc: |-
-    T. M. Quan, S. Han, H. Cho and W.-K. Jeong, "Multi-GPU Reconstruction of Dynamic Compressed Sensing MRI", in proceedings of MICCAI, 2015, pp. 484-492.
+    T. M. Quan, S. Han, H. Cho and W.-K. Jeong, "Multi-GPU Reconstruction of Dynamic Compressed Sensing MRI", in Proc. of MICCAI, 2015, pp. 484-492.
 
 - name: IEEE ISBI 2016
   i18n: tmquan
   img: /static/assets/img/publications/quan_compressed_2016.png
   desc: |-
-    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic contrast enhanced MRI using GPU-accelerated convolutional sparse coding", in proceedings of IEEE ISBI, 2016, pp. 518-521.
+    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic contrast enhanced MRI using GPU-accelerated convolutional sparse coding", in Proc. of IEEE ISBI, 2016, pp. 518-521.
 
 
 - name: MICCAI 2016
   i18n: tmquan
   img: /static/assets/img/publications/quan_compressed3d_2016.png
   desc: |-
-    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic MRI using GPU-accelerated 3D convolutional sparse coding", in proceedings of MICCAI, 2016, pp. 484-492.
+    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic MRI using GPU-accelerated 3D convolutional sparse coding", in Proc. of MICCAI, 2016, pp. 484-492.
 
 
 - name: IEEE TPDS 2016
@@ -75,13 +75,42 @@
   i18n: tmquan
   img: /static/assets/img/publications/quantm_lci_2019.png
   desc: |-
-    T. M. Quan, K. G. Lee, Logan A. Thomas, Aaron T. Kuan, D. G. C. Hildebrand, Wei-Chung Allen Lee, and W.-K. Jeong, "Removing Imaging Artifacts in Electron Microscopy using an Asymmetrically Cyclic Adversarial Network without Paired Training Data", in proceedings of ICCVW, 2019.
+    T. M. Quan, K. G. Lee, Logan A. Thomas, Aaron T. Kuan, D. G. C. Hildebrand, Wei-Chung Allen Lee, and W.-K. Jeong, "Removing Imaging Artifacts in Electron Microscopy using an Asymmetrically Cyclic Adversarial Network without Paired Training Data", in Proc. of ICCVW, 2019.
 
 - name: Water 2020
   i18n: tmquan
-  img: /static/assets/img/publications/kim_water_2020.png
+  img: /static/assets/img/publications/kim_water_2020.jpg
   desc: |-
     T. T. Kim, N. T. M. Huong, N. D. Q. Huy, P. A. Tai, S. Hong, T. M. Quan, N. T. Bay, W.-K. Jeong, N. K. Phung, "Assessment of the Impact of Sand Mining on Bottom Morphology in the Mekong River in An Giang Province, Vietnam, Using a Hydro-Morphological Model with GPU Computing", Water, Vol. 12, Iss. 10, pp.2912-2302, 2020
+
+
+- name: Frontier in Computer Science 2021
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_fusion_2021.png
+  desc: |-
+    T. M. Quan, D. G. C. Hildebrand, and W.-K. Jeong, "FusionNet: A deep fully residual convolutional neural network for image segmentation in connectomics", Frontiers in Computer Science, Vol. 3, Iss.2624-9898, 2021
+
+- name: IEEE ISBI 2021
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_xpgan_2021.png
+  desc: |-
+    T. M. Quan, H. M. Thanh, T. D. Huy, N. D. T. Chanh, N. T. P. Anh, P. H. Vu, N. H. Nam, T. Q. Tuong, V. M. Dien, B. V. Giang, B. H. Trung, and Steven Q. H. Truong, "XPGAN: X-Ray Projected Generative Adversarial Network for Improving COVID-19 Image Classification", in Proc. of IEEE ISBI, 2021, pp. 1509-1513.
+
+
+- name: IEEE CVPR 2021
+  i18n: tmquan
+  img: /static/assets/img/publications/tuan_color_2021.jpg
+  desc: |-
+    T. A. Tuan, N. T. Khoa, T. M. Quan, and W.-K. Jeong, "Reinforced Coloring for End-to-End Instance Segmentation", in Proc.  of IEEE CVPR, 2021, pp. 16722-16731.
+
+
+
+- name: IEEE ISBI 2022
+  i18n: tmquan
+  img: /static/assets/img/publications/huy_nerp_2022.jpg
+  desc: |-
+    P. N. Huy, T. M. Quan, "Neural Radiance Projection", in Proc. of IEEE ISBI, 2022, to appear. 
+    
 
 # - name: Python
 #   i18n: cpython
