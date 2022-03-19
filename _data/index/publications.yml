@@ -42,9 +42,22 @@
 
 - name: Nature 2017
   i18n: tmquan
-  img: /static/assets/img/publications/hildebrand_natures_2017.png
+  img: /static/assets/img/publications/hildebrand_nature_2017.png
   desc: |-
     D. G. C. Hildebrand, M. Cicconet, R. M. Torres, W. Choi, T. M. Quan, J. Moon, A. W. Wetzel, A. Scott Champion, B. J. Graham, O. Randlett, G. S. Plummer, R. Portugues, I. H. Bianco, S. Saalfeld, A. D. Baden, K. Lillaney, R. Burns, J. T. Vogelstein, A. F. Schier, W. A. Lee, W.-K. Jeong, J. W. Lichtman, and F. Engert, "Whole-brain serial-section electron microscopy in larval zebrafish", Nature, vol. 545, iss. 7654, pp. 345-349, 2017
+
+- name: IEEE TVCG 2017
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_jun_haejin_vis_2017.png
+  desc: |-
+    T. M. Quan, J. Choi, , H. Jeong, and W.-K. Jeong, "An intelligent system approach for robust volume rendering using hierarchical 3D convolutional sparse coding", IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 24, iss.1, pp. 964-972, 2017.
+
+- name: ISMRM 2018
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_ismrm_2018_3370.png
+  desc: |-
+    T. M. Quan, N.-D. Thanh, and W.-K. Jeong, "Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks", Annual Meeting International Society for Magnetic Resonance in Medicine (ISMRM), 2018, pp. 3370.
+
 
 # - name: Python
 #   i18n: cpython
