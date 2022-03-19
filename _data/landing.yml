@@ -49,10 +49,10 @@
   tpl: awards.html
   css: award
 
-- id: talk
-  i18n: nav.talk
-  name: talk
-  tpl: talk.html
+- id: talks
+  i18n: nav.talks
+  name: talks
+  tpl: talks.html
   css: timeline
 
 - id: blog
