@@ -5,7 +5,7 @@
             <h1><span data-i18n="publications.my_publications">Publications</span></h1>
         </div>
     </div>
-    <div class="row">
+    <div class="row  text-justify">
         {% for publication in site.data.index.publications %}
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
