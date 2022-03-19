@@ -44,7 +44,7 @@ author:  # change following line to your infomation.
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: G-R29ENMK6TY
+  id: G-B4DLH79M37
 
 ## google optimize
 go:
