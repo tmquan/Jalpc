@@ -22,7 +22,7 @@
 
 - name: IEEE ISBI 2016
   i18n: tmquan
-  img: /static/assets/img/publications/quan_compressed_2015.png
+  img: /static/assets/img/publications/quan_compressed_2016.png
   desc: |-
     T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic contrast enhanced MRI using GPU-accelerated convolutional sparse coding", in proceedings of IEEE ISBI, 2016, pp. 518-521.
 
@@ -40,6 +40,11 @@
   desc: |-
     T. M. Quan and W.-K. Jeong, "A fast discrete wavelet transform using hybrid parallelism on GPUs", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 27, iss. 11, pp. 3088-3100, 2016.    
 
+- name: Nature 2017
+  i18n: tmquan
+  img: /static/assets/img/publications/hildebrand_natures_2017.png
+  desc: |-
+    D. G. C. Hildebrand, M. Cicconet, R. M. Torres, W. Choi, T. M. Quan, J. Moon, A. W. Wetzel, A. Scott Champion, B. J. Graham, O. Randlett, G. S. Plummer, R. Portugues, I. H. Bianco, S. Saalfeld, A. D. Baden, K. Lillaney, R. Burns, J. T. Vogelstein, A. F. Schier, W. A. Lee, W.-K. Jeong, J. W. Lichtman, and F. Engert, "Whole-brain serial-section electron microscopy in larval zebrafish", Nature, vol. 545, iss. 7654, pp. 345-349, 2017
 
 # - name: Python
 #   i18n: cpython
