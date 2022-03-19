@@ -20,6 +20,19 @@
   desc: |-
     T. M. Quan, S. Han, H. Cho and W.-K. Jeong, "Multi-GPU Reconstruction of Dynamic Compressed Sensing MRI", in proceedings of MICCAI, 2015, pp. 484-492.
 
+- name: IEEE ISBI 2016
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_compressed_2015.png
+  desc: |-
+    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic contrast enhanced MRI using GPU-accelerated convolutional sparse coding", in proceedings of IEEE ISBI, 2016, pp. 518-521.
+
+
+- name: MICCAI 2016
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_compressed3d_2016.png
+  desc: |-
+    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic MRI using GPU-accelerated 3D convolutional sparse coding", in proceedings of MICCAI, 2016, pp. 484-492.
+
 
 # - name: Python
 #   i18n: cpython
