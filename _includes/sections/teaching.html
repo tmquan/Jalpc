@@ -19,17 +19,17 @@
                         <p><span data-i18n="teaching.{{ teaching.desc.i18n }}">{{ teaching.desc.detail }} </span></p>
                         <span class="vertical-date"><span data-i18n="teaching.{{ teaching.date.i18n }}"> {{ teaching.date.detail }} </span>
                         <br/> <small><span data-i18n="teaching.{{ teaching.job.i18n }}">{{ teaching.job.detail }}</span></small> </span>
+                        <p>{{ t.desc }}</p>
+                        <ul class="list-inline social-icon">
+                            <li><a href="{{ t.website }}" target="blank"><i class="fa fa-t"></i></a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             {% endfor %}
             </div>
         </div>
-        <div class="team-member">
-            <p>{{ teaching.desc }}</p>
-            <ul class="list-inline social-icon">
-                <li><a href="{{ teaching.website }}" target="blank"><i class="fa fa-teaching"></i></a>
-                </li>
-            </ul>
-        </div>
+            
+        
     </div>
 </div>
