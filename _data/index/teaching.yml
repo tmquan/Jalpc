@@ -1,13 +1,32 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+
 - name:
-    detail: Introduction to Computer Graphics (CSE431), Undergraduate Course, UNIST
+    detail: Digital Signal Processing, HCMUS 
     i18n: 
   desc:
-    detail:  
+    detail: 
     i18n: 
   date:
-    detail: Spring 2012 
+    detail: Spring 2022
+    i18n: 
+  job:
+    detail: Lecturer
+    i18n: 
+  icon: fa-plus-square
+  present: true
+
+
+
+- name:
+    detail: Summer study on Deep Learning for Medical Image Analysis, SNU 
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: Summer 2016
     i18n: 
   job:
     detail: Teaching Assistant
@@ -15,13 +34,42 @@
   icon: fa-plus-square
 
 - name:
-    detail: Data Structure (CSE231), Undergraduate Course, UNIST
+    detail: Summer study on Machine Learning, SNU
     i18n: 
   desc:
     detail: 
     i18n: 
   date:
-    detail: Fall 2012
+    detail: Summer 2015
+    i18n: 
+  job:
+    detail: Teaching Assistant
+    i18n: 
+  icon: fa-plus-square
+
+
+- name:
+    detail: Heterogeneous Parallel Programming, Coursera 
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: Spring 2014
+    i18n: 
+  job:
+    detail: Teaching Assistant
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: Massively Parallel Programming (ECE519), Graduate Course, UNIST
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: Fall 2013
     i18n: 
   job:
     detail: Teaching Assistant
@@ -45,13 +93,13 @@
 
 
 - name:
-    detail: Massively Parallel Programming (ECE519), Graduate Course, UNIST
+    detail: Data Structure (CSE231), Undergraduate Course, UNIST
     i18n: 
   desc:
     detail: 
     i18n: 
   date:
-    detail: Fall 2013
+    detail: Fall 2012
     i18n: 
   job:
     detail: Teaching Assistant
@@ -59,60 +107,17 @@
   icon: fa-plus-square
 
 
+
 - name:
-    detail: Heterogeneous Parallel Programming, Coursera 
+    detail: Introduction to Computer Graphics (CSE431), Undergraduate Course, UNIST
     i18n: 
   desc:
-    detail: 
+    detail:  
     i18n: 
   date:
-    detail: Spring 2014
+    detail: Spring 2012 
     i18n: 
   job:
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
-
-- name:
-    detail: Summer study on Machine Learning, SNU
-    i18n: 
-  desc:
-    detail: 
-    i18n: 
-  date:
-    detail: Summer 2015
-    i18n: 
-  job:
-    detail: Teaching Assistant
-    i18n: 
-  icon: fa-plus-square
-
-- name:
-    detail: Summer study on Deep Learning for Medical Image Analysis, SNU 
-    i18n: 
-  desc:
-    detail: 
-    i18n: 
-  date:
-    detail: Summer 2016
-    i18n: 
-  job:
-    detail: Teaching Assistant
-    i18n: 
-  icon: fa-plus-square
-
-
-- name:
-    detail: Digital Signal Processing, HCMUS 
-    i18n: 
-  desc:
-    detail: 
-    i18n: 
-  date:
-    detail: Spring 2022
-    i18n: 
-  job:
-    detail: Lecturer
-    i18n: 
-  icon: fa-plus-square
-  present: true
