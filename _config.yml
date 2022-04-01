@@ -15,8 +15,8 @@ img_path: /web/static/assets/img/blog  # url should be '/homepage/static/assets/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Tran Minh Quan  # Be used at blog posts' author.
-  first_name: Little  # Be used at index page about me section.
-  last_name: Turtle  # Be used at index page about me section.
+  first_name: Tran Minh Quan  # Be used at index page about me section.
+  last_name: 진선미  # Be used at index page about me section.
   avatar: /static/assets/img/landing/gpgpu.jpg  # upload your avatar at directory and edit it.
   github_username: tmquan  # Leave blank if you don't have now
   linkedin_id: tmquan2090 # Leave blank if you don't have now
