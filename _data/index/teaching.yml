@@ -3,7 +3,7 @@
 
 
 - name:
-    detail: Digital Signal Processing, HCMUS 
+    detail: Digital Signal Processing, Undergraduate Course, HCMUS 
     i18n: 
   desc:
     detail: 
@@ -17,8 +17,6 @@
     i18n: 
   icon: fa-plus-square
   present: true
-
-
 
 - name:
     detail: Summer study on Deep Learning for Medical Image Analysis, SNU 
