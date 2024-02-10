@@ -7,6 +7,12 @@
   desc: |-
     Jun 2005
 
+- name: High rank in the National Entrance Examination (Top 10%)
+  i18n: tmquan
+  img: /static/assets/img/awards/hcmut.png
+  desc: |-
+    Jun 2006
+
 - name: Full Undergraduate Scholarship from KAIST
   i18n: tmquan
   img: /static/assets/img/awards/kaist.jpeg

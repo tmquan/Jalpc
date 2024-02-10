@@ -35,15 +35,37 @@ author:  # change following line to your infomation.
     - name: fa-github
     - name: icon-apache
   desc: >
-      He is currently an affiliated lecturer at VinUniversity, a member of VinGroup, the largest enterprise in Vietnam by capitalization.
-      
-      He got a B.S. degree in Electrical Engineering at KAIST (2012) and received a Ph.D. degree in Computer Science, focused on GPU Computing, at UNIST (2019), both from South Korea. His research interests are image-to-image translation, inverse problems, and high-performance visual computing, specializing in biomedical image processing and applications. 
+        Tran Minh Quan is currently a Senior Developer Technologist at NVIDIA, with the focus on the growth of the developer community in Vietnam, especially AI/ML/DS using parallel computing foundation, 
+        across multiple scales such as Enterprises (ENTs), Individual Software Vendors (ISVs), Inceptions (INCs), and Higher Education and Research (HERs) entities. 
 
-      He was one of the first students in High-performance Visual Computing Lab (the first CUDA research center in Korea), guided by Professor Won-Ki Jeong, who has moved to Korea University. 
-      
-      His domain of image modalities concentrates on X-ray, CT, MRI, and Electron Microscopy. All are centered around using GPU-accelerated computing to understand biomedical image data. His most notable work includes undersampled MRI reconstruction using a GAN-based deep neural network, which is one of the pioneering works in the MRI community using deep learning (Google scholar citation ~400 since 2018). This work demonstrated that compressed sensing theory maps well to a generative model using cyclic loss. He has published many research papers in top-tier venues, including Nature, IEEE Trans. Medical Imaging, IEEE Trans. Visualization and Computer Graphics, IEEE Trans. Parallel and Distributed Systems, Medical Image Analysis; and prestigious peer-reviewed conferences such as MICCAI, IEEE ISBI, IEEE CVPR, ISMRM, etc. He is a recipient of the NAVER graduate fellowship.
-      
-      Recently, he has been working on Deep learning-based Generative Adversarial Networks on various problems (neural volume rendering, variationally reconstructed radiographs, anatomical graphs). He also serves as a technical reviewer for NeuroComputing, IEEE Transactions, other journals, and conferences. He is a member of the AI Consultant Committee of Ho Chi Minh City, Vietnam. 
+        He earned his Bachelor's Degree in Electrical Engineering from the Korea Advanced Institute of Science and Technology (KAIST) and has a Ph.D. degree in Computer Science (GPU Computing) from the Ulsan National Institute of Science and Technology (UNIST), both in South Korea. 
+        His academic journey was centered around Computer Graphics and Signal Processing. 
+        During the graduate training course, he was a full-time researcher in the High-performance Visual Computing Lab, the first NVIDIA GPU Research Center in South Korea (2014). 
+        He further enriched his skills as a visiting research assistant at Harvard University (Cambridge, MA, USA) and Harvard Medical School (Boston, MA, USA), where he contributed to developing a denoising mechanism for connectomics data. 
+
+        His domain of image modalities concentrates on X-ray, CT, MRI, and Electron Microscopy. All can use GPU-accelerated computing to understand biomedical image data. 
+        His most notable work includes undersampled MRI reconstruction using a GAN-based deep neural network, which is one of the pioneering works in the MRI community using deep learning (Google scholar citation ~600 since 2018). 
+        This work demonstrated that compressed sensing theory maps well to a generative model using cyclic loss. 
+        He has published many research papers in top-tier venues, including Nature, IEEE TMI, IEEE TVCG, IEEE TPDS, Medical Image Analysis; 
+        and prestigious peer-reviewed conferences such as MICCAI, IEEE ISBI, IEEE CVPR, ISMRM, etc. He is a recipient of the NAVER graduate fellowship. 
+
+        Recently, he has been working on Deep learning-based Generative Adversarial Networks on various problems (neural volume rendering, variationally reconstructed radiographs, anatomical graphs). 
+        He also gave talks at the NVIDIA GPU Technology Conference at GTC2013 (San Jose) and GTCx2016 (South Korea). He was involved in GPU training tours across South Korea for other medical doctors and researchers.
+
+        His professional background is diverse, with significant contributions to various startups in Vietnam, primarily focusing on the healthcare domain, 
+        including VinBrain, Cinnamon, and Talosix as Senior Research/Applied/Data Scientists who intensively used GPUs to accelerate the processing time of medical data (text, images, videos, etc.). 
+        Outside his daily work, he was an affiliate lecturer at VinUniversity and has been a technical reviewer of several top-tier journals such as NeuroComputing, IEEE Transactions, others, and prestigious conferences. 
+        He is a member of the AI Consultant Committee of Ho Chi Minh City, Vietnam.
+
+# He is currently an affiliated lecturer at VinUniversity, a member of VinGroup, the largest enterprise in Vietnam by capitalization.
+
+# He got a B.S. degree in Electrical Engineering at KAIST (2012) and received a Ph.D. degree in Computer Science, focused on GPU Computing, at UNIST (2019), both from South Korea. His research interests are image-to-image translation, inverse problems, and high-performance visual computing, specializing in biomedical image processing and applications. 
+
+# He was one of the first students in High-performance Visual Computing Lab (the first CUDA research center in Korea), guided by Professor Won-Ki Jeong, who has moved to Korea University. 
+
+# His domain of image modalities concentrates on X-ray, CT, MRI, and Electron Microscopy. All are centered around using GPU-accelerated computing to understand biomedical image data. His most notable work includes undersampled MRI reconstruction using a GAN-based deep neural network, which is one of the pioneering works in the MRI community using deep learning (Google scholar citation ~400 since 2018). This work demonstrated that compressed sensing theory maps well to a generative model using cyclic loss. He has published many research papers in top-tier venues, including Nature, IEEE Trans. Medical Imaging, IEEE Trans. Visualization and Computer Graphics, IEEE Trans. Parallel and Distributed Systems, Medical Image Analysis; and prestigious peer-reviewed conferences such as MICCAI, IEEE ISBI, IEEE CVPR, ISMRM, etc. He is a recipient of the NAVER graduate fellowship.
+
+# Recently, he has been working on Deep learning-based Generative Adversarial Networks on various problems (neural volume rendering, variationally reconstructed radiographs, anatomical graphs). He also serves as a technical reviewer for NeuroComputing, IEEE Transactions, other journals, and conferences. He is a member of the AI Consultant Committee of Ho Chi Minh City, Vietnam. 
 
 # # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

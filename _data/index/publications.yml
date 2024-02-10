@@ -101,7 +101,7 @@
   i18n: tmquan
   img: /static/assets/img/publications/tuan_color_2021.jpg
   desc: |-
-    T. A. Tuan, N. T. Khoa, T. M. Quan, and W.-K. Jeong, "Reinforced Coloring for End-to-End Instance Segmentation", in Proc.  of IEEE CVPR, 2021, pp. 16722-16731.
+    T. A. Tuan, N. T. Khoa, T. M. Quan, and W.-K. Jeong, "Reinforced Coloring for End-to-End Instance Segmentation", in Proc. of IEEE CVPR, 2021, pp. 16722-16731.
 
 
 
@@ -109,8 +109,13 @@
   i18n: tmquan
   img: /static/assets/img/publications/huy_nerp_2022.png
   desc: |-
-    P. N. Huy, T. M. Quan, "Neural Radiance Projection", in Proc. of IEEE ISBI, 2022, to appear. 
+    P. N. Huy, T. M. Quan, "Neural Radiance Projection", in Proc. of IEEE ISBI, 2022, pp. 1-5. 
 
+- name: IEEE ISBI 2023
+  i18n: tmquan
+  img: /static/assets/img/publications/huy_ddmm_2023.png
+  desc: |-
+    P. N. Huy, T. M. Quan, "Denoising Diffusion Medical Models", in Proc. of IEEE ISBI, 2023, pp. 1-5. 
 
 # - name: Python
 #   i18n: cpython

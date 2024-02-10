@@ -172,14 +172,43 @@
       "Design Models for X-ray image projection using GANs."
     i18n: 
   date:
-    detail: Apr 2021 
+    detail: Nov 2019 - Mar 2021
     i18n: 
   job:
     detail: Affiliated Lecturer
     i18n: 
   icon: fa-plus-square
-  present: true
+  
+- name:
+    detail: Talosix, Ho Chi Minh City, Vietnam. 
+    i18n: 
+  desc:
+    detail: 
+      "Design Models for X-ray image projection using Diffusion."
+    i18n: 
+  date:
+    detail: Apr 2021 - Dec 2023
+    i18n: 
+  job:
+    detail: Affiliated Lecturer
+    i18n: 
+  icon: fa-plus-square
 
+- name:
+    detail: NVIDIA, Hanoi, Vietnam. 
+    i18n: 
+  desc:
+    detail: 
+      "Design Models for X-ray Inverse Rendering"
+    i18n: 
+  date:
+    detail: Jan 2024
+    i18n: 
+  job:
+    detail: Senior Developer Relations Manager
+    i18n: 
+  icon: fa-plus-square
+  present: true
 
 # - name:
 #     detail: Company A
