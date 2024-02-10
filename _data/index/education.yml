@@ -1,33 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Le Hong Phong High School for Gifted, Vietnam.
+    detail: Ulsan National Institute of Science and Technology (UNIST), South Korea.
     i18n: 
   desc:
-    detail: 
+    detail: Doctor of Philosophy
     i18n: 
   date:
-    detail: 2003 - 2006
+    detail: 2012 - 2019
     i18n: 
   job:
-    detail: Department of Chemistry
+    detail: Department of Computer Science
     i18n: 
   icon: fa-plus-square
-
-- name:
-    detail: Ho Chi Minh University of Technology (HCMUT), Vietnam.
-    i18n: 
-  desc:
-    detail: Partially Completed
-    i18n: 
-  date:
-    detail: 2006 - 2008
-    i18n: 
-  job:
-    detail: Department of Computer Science and Engineering
-    i18n: 
-  icon: fa-plus-square
-
 
 - name:
     detail: Korea Advanced Institute of Science and Technology (KAIST), South Korea.
@@ -42,20 +27,38 @@
     detail: Department of Electrical Engineering
     i18n: 
   icon: fa-plus-square
-
+  
 - name:
-    detail: Ulsan National Institute of Science and Technology (UNIST), South Korea.
+    detail: Ho Chi Minh University of Technology (HCMUT), Vietnam.
     i18n: 
   desc:
-    detail: Doctor of Philosophy
+    detail: Partially Completed
     i18n: 
   date:
-    detail: 2012 - 2019
+    detail: 2006 - 2008
     i18n: 
   job:
-    detail: Department of Computer Science
+    detail: Department of Computer Science and Engineering
     i18n: 
   icon: fa-plus-square
+
+- name:
+    detail: Le Hong Phong High School for Gifted, Vietnam.
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: 2003 - 2006
+    i18n: 
+  job:
+    detail: Department of Chemistry
+    i18n: 
+  icon: fa-plus-square
+
+
+
+
 
 # - name:
 #     detail: Company A
