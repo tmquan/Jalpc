@@ -1,115 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: IEEE TVCG 2014
-  i18n: tmquan
-  img: /static/assets/img/publications/choi_vivaldi_2014.png
-  desc: |-
-    H. Choi, W. Choi, T. M. Quan, D. G. C. Hildebrand, H. Pfister, and W.-K. Jeong, "Vivaldi: a domain-specific language for volume processing and visualization on distributed heterogeneous systems", IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. 20, Iss. 12, pp. 2407-2416, 2014.
 
-
-- name: IEEE ICIP 2014
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_wavelet_2014.png
-  desc: |-
-    T. M. Quan and W.-K. Jeong, "A fast Mixed-Band lifting wavelet transform on the GPU", in Proc. of IEEE ICIP, 2014, pp. 1238-1242.
-
-- name: MICCAI 2015
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_multi_2015.png
-  desc: |-
-    T. M. Quan, S. Han, H. Cho and W.-K. Jeong, "Multi-GPU Reconstruction of Dynamic Compressed Sensing MRI", in Proc. of MICCAI, 2015, pp. 484-492.
-
-- name: IEEE ISBI 2016
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_compressed_2016.png
-  desc: |-
-    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic contrast enhanced MRI using GPU-accelerated convolutional sparse coding", in Proc. of IEEE ISBI, 2016, pp. 518-521.
-
-
-- name: MICCAI 2016
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_compressed3d_2016.png
-  desc: |-
-    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic MRI using GPU-accelerated 3D convolutional sparse coding", in Proc. of MICCAI, 2016, pp. 484-492.
-
-
-- name: IEEE TPDS 2016
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_fast_2016.png
-  desc: |-
-    T. M. Quan and W.-K. Jeong, "A fast discrete wavelet transform using hybrid parallelism on GPUs", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 27, iss. 11, pp. 3088-3100, 2016.    
-
-- name: Nature 2017
-  i18n: tmquan
-  img: /static/assets/img/publications/hildebrand_nature_2017.png
-  desc: |-
-    D. G. C. Hildebrand, M. Cicconet, R. M. Torres, W. Choi, T. M. Quan, J. Moon, A. W. Wetzel, A. Scott Champion, B. J. Graham, O. Randlett, G. S. Plummer, R. Portugues, I. H. Bianco, S. Saalfeld, A. D. Baden, K. Lillaney, R. Burns, J. T. Vogelstein, A. F. Schier, W. A. Lee, W.-K. Jeong, J. W. Lichtman, and F. Engert, "Whole-brain serial-section electron microscopy in larval zebrafish", Nature, vol. 545, iss. 7654, pp. 345-349, 2017
-
-- name: IEEE TVCG 2017
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_jun_haejin_vis_2017.png
-  desc: |-
-    T. M. Quan, J. Choi, , H. Jeong, and W.-K. Jeong, "An intelligent system approach for robust volume rendering using hierarchical 3D convolutional sparse coding", IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 24, iss.1, pp. 964-972, 2017.
-
-- name: ISMRM 2018
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_ismrm_2018_3370.png
-  desc: |-
-    T. M. Quan, N.-D. Thanh, and W.-K. Jeong, "Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks", Annual Meeting International Society for Magnetic Resonance in Medicine (ISMRM), 2018, pp. 3370.
-
-- name: IEEE TMI 2018
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_2018_refinegan.png
-  desc: |-
-    T. M. Quan, N.-D. Thanh, and W.-K. Jeong, "Compressed Sensing MRI Reconstruction using a Generative Adversarial Network with a Cyclic Loss", IEEE Transactions on Medical Imaging (TMI), Vol. 37, Iss. 6, pp. 1488-1497, 2018.
-
-- name: MEDIA 2019
-  i18n: tmquan
-  img: /static/assets/img/publications/thanh_frequency_2019.png
-  desc: |-
-    N.-D. Thanh, T. M. Quan, and W.-K. Jeong, "Frequency-splitting Dynamic MRI Reconstruction using Multi-scale 3D Convolutional Sparse Coding and Automatic Parameter Selection", Medical Image Analysis (MedIA), Vol. 53, pp. 179-196, 2019.
-
-
-- name: IEEE ICCVW 2019
-  i18n: tmquan
-  img: /static/assets/img/publications/quantm_lci_2019.png
-  desc: |-
-    T. M. Quan, K. G. Lee, Logan A. Thomas, Aaron T. Kuan, D. G. C. Hildebrand, Wei-Chung Allen Lee, and W.-K. Jeong, "Removing Imaging Artifacts in Electron Microscopy using an Asymmetrically Cyclic Adversarial Network without Paired Training Data", in Proc. of IEEE ICCVW, 2019.
-
-- name: Water 2020
-  i18n: tmquan
-  img: /static/assets/img/publications/kim_water_2020.jpg
-  desc: |-
-    T. T. Kim, N. T. M. Huong, N. D. Q. Huy, P. A. Tai, S. Hong, T. M. Quan, N. T. Bay, W.-K. Jeong, N. K. Phung, "Assessment of the Impact of Sand Mining on Bottom Morphology in the Mekong River in An Giang Province, Vietnam, Using a Hydro-Morphological Model with GPU Computing", Water, Vol. 12, Iss. 10, pp.2912-2302, 2020
-
-
-- name: Frontier in Computer Science 2021
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_fusion_2021.png
-  desc: |-
-    T. M. Quan, D. G. C. Hildebrand, and W.-K. Jeong, "FusionNet: A deep fully residual convolutional neural network for image segmentation in connectomics", Frontiers in Computer Science, Vol. 3, Iss.2624-9898, 2021
-
-- name: IEEE ISBI 2021
-  i18n: tmquan
-  img: /static/assets/img/publications/quan_xpgan_2021.png
-  desc: |-
-    T. M. Quan, H. M. Thanh, T. D. Huy, N. D. T. Chanh, N. T. P. Anh, P. H. Vu, N. H. Nam, T. Q. Tuong, V. M. Dien, B. V. Giang, B. H. Trung, and Steven Q. H. Truong, "XPGAN: X-Ray Projected Generative Adversarial Network for Improving COVID-19 Image Classification", in Proc. of IEEE ISBI, 2021, pp. 1509-1513.
-
-
-- name: IEEE CVPR 2021
-  i18n: tmquan
-  img: /static/assets/img/publications/tuan_color_2021.jpg
-  desc: |-
-    T. A. Tuan, N. T. Khoa, T. M. Quan, and W.-K. Jeong, "Reinforced Coloring for End-to-End Instance Segmentation", in Proc. of IEEE CVPR, 2021, pp. 16722-16731.
-
-
-
-- name: IEEE ISBI 2022
-  i18n: tmquan
-  img: /static/assets/img/publications/huy_nerp_2022.png
-  desc: |-
-    P. N. Huy, T. M. Quan, "Neural Radiance Projection", in Proc. of IEEE ISBI, 2022, pp. 1-5. 
 
 - name: IEEE ISBI 2023
   i18n: tmquan
@@ -117,15 +9,104 @@
   desc: |-
     P. N. Huy, T. M. Quan, "Denoising Diffusion Medical Models", in Proc. of IEEE ISBI, 2023, pp. 1-5. 
 
-# - name: Python
-#   i18n: cpython
-#   gh_user: python
-#   repo: cpython
-#   img: /static/assets/img/landing/python.png
-#   desc: This project is other's project. I use another request to get repo's information.
+- name: IEEE ISBI 2022
+  i18n: tmquan
+  img: /static/assets/img/publications/huy_nerp_2022.png
+  desc: |-
+    P. N. Huy, T. M. Quan, "Neural Radiance Projection", in Proc. of IEEE ISBI, 2022, pp. 1-5. 
 
-# - name: Google
-#   i18n: google
-#   url: https://google.com
-#   img: /static/assets/img/landing/google.png
-#   desc: This is another project.
+- name: IEEE CVPR 2021
+  i18n: tmquan
+  img: /static/assets/img/publications/tuan_color_2021.jpg
+  desc: |-
+    T. A. Tuan, N. T. Khoa, T. M. Quan, and W.-K. Jeong, "Reinforced Coloring for End-to-End Instance Segmentation", in Proc. of IEEE CVPR, 2021, pp. 16722-16731.
+
+- name: IEEE ISBI 2021
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_xpgan_2021.png
+  desc: |-
+    T. M. Quan, H. M. Thanh, T. D. Huy, N. D. T. Chanh, N. T. P. Anh, P. H. Vu, N. H. Nam, T. Q. Tuong, V. M. Dien, B. V. Giang, B. H. Trung, and Steven Q. H. Truong, "XPGAN: X-Ray Projected Generative Adversarial Network for Improving COVID-19 Image Classification", in Proc. of IEEE ISBI, 2021, pp. 1509-1513.
+
+- name: Frontier in Computer Science 2021
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_fusion_2021.png
+  desc: |-
+    T. M. Quan, D. G. C. Hildebrand, and W.-K. Jeong, "FusionNet: A deep fully residual convolutional neural network for image segmentation in connectomics", Frontiers in Computer Science, Vol. 3, Iss.2624-9898, 2021
+
+- name: Water 2020
+  i18n: tmquan
+  img: /static/assets/img/publications/kim_water_2020.jpg
+  desc: |-
+    T. T. Kim, N. T. M. Huong, N. D. Q. Huy, P. A. Tai, S. Hong, T. M. Quan, N. T. Bay, W.-K. Jeong, N. K. Phung, "Assessment of the Impact of Sand Mining on Bottom Morphology in the Mekong River in An Giang Province, Vietnam, Using a Hydro-Morphological Model with GPU Computing", Water, Vol. 12, Iss. 10, pp.2912-2302, 2020
+
+- name: IEEE ICCVW 2019
+  i18n: tmquan
+  img: /static/assets/img/publications/quantm_lci_2019.png
+  desc: |-
+    T. M. Quan, K. G. Lee, Logan A. Thomas, Aaron T. Kuan, D. G. C. Hildebrand, Wei-Chung Allen Lee, and W.-K. Jeong, "Removing Imaging Artifacts in Electron Microscopy using an Asymmetrically Cyclic Adversarial Network without Paired Training Data", in Proc. of IEEE ICCVW, 2019.
+
+- name: MEDIA 2019
+  i18n: tmquan
+  img: /static/assets/img/publications/thanh_frequency_2019.png
+  desc: |-
+    N.-D. Thanh, T. M. Quan, and W.-K. Jeong, "Frequency-splitting Dynamic MRI Reconstruction using Multi-scale 3D Convolutional Sparse Coding and Automatic Parameter Selection", Medical Image Analysis (MedIA), Vol. 53, pp. 179-196, 2019.
+
+- name: IEEE TMI 2018
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_2018_refinegan.png
+  desc: |-
+    T. M. Quan, N.-D. Thanh, and W.-K. Jeong, "Compressed Sensing MRI Reconstruction using a Generative Adversarial Network with a Cyclic Loss", IEEE Transactions on Medical Imaging (TMI), Vol. 37, Iss. 6, pp. 1488-1497, 2018.
+
+- name: ISMRM 2018
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_ismrm_2018_3370.png
+  desc: |-
+    T. M. Quan, N.-D. Thanh, and W.-K. Jeong, "Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks", Annual Meeting International Society for Magnetic Resonance in Medicine (ISMRM), 2018, pp. 3370.
+
+- name: IEEE TVCG 2017
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_jun_haejin_vis_2017.png
+  desc: |-
+    T. M. Quan, J. Choi, , H. Jeong, and W.-K. Jeong, "An intelligent system approach for robust volume rendering using hierarchical 3D convolutional sparse coding", IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 24, iss.1, pp. 964-972, 2017.
+
+- name: Nature 2017
+  i18n: tmquan
+  img: /static/assets/img/publications/hildebrand_nature_2017.png
+  desc: |-
+    D. G. C. Hildebrand, M. Cicconet, R. M. Torres, W. Choi, T. M. Quan, J. Moon, A. W. Wetzel, A. Scott Champion, B. J. Graham, O. Randlett, G. S. Plummer, R. Portugues, I. H. Bianco, S. Saalfeld, A. D. Baden, K. Lillaney, R. Burns, J. T. Vogelstein, A. F. Schier, W. A. Lee, W.-K. Jeong, J. W. Lichtman, and F. Engert, "Whole-brain serial-section electron microscopy in larval zebrafish", Nature, vol. 545, iss. 7654, pp. 345-349, 2017
+
+- name: IEEE TPDS 2016
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_fast_2016.png
+  desc: |-
+    T. M. Quan and W.-K. Jeong, "A fast discrete wavelet transform using hybrid parallelism on GPUs", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 27, iss. 11, pp. 3088-3100, 2016.    
+
+- name: MICCAI 2016
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_compressed3d_2016.png
+  desc: |-
+    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic MRI using GPU-accelerated 3D convolutional sparse coding", in Proc. of MICCAI, 2016, pp. 484-492.
+
+- name: IEEE ISBI 2016
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_compressed_2016.png
+  desc: |-
+    T. M. Quan and W.-K. Jeong, "Compressed sensing reconstruction of dynamic contrast enhanced MRI using GPU-accelerated convolutional sparse coding", in Proc. of IEEE ISBI, 2016, pp. 518-521.
+
+- name: MICCAI 2015
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_multi_2015.png
+  desc: |-
+    T. M. Quan, S. Han, H. Cho and W.-K. Jeong, "Multi-GPU Reconstruction of Dynamic Compressed Sensing MRI", in Proc. of MICCAI, 2015, pp. 484-492.
+
+- name: IEEE TVCG 2014
+  i18n: tmquan
+  img: /static/assets/img/publications/choi_vivaldi_2014.png
+  desc: |-
+    H. Choi, W. Choi, T. M. Quan, D. G. C. Hildebrand, H. Pfister, and W.-K. Jeong, "Vivaldi: a domain-specific language for volume processing and visualization on distributed heterogeneous systems", IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. 20, Iss. 12, pp. 2407-2416, 2014.
+
+- name: IEEE ICIP 2014
+  i18n: tmquan
+  img: /static/assets/img/publications/quan_wavelet_2014.png
+  desc: |-
+    T. M. Quan and W.-K. Jeong, "A fast Mixed-Band lifting wavelet transform on the GPU", in Proc. of IEEE ICIP, 2014, pp. 1238-1242.
