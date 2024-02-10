@@ -1,6 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
 - name: ACM SIGAI Industry Award for Excellence in Artificial Intelligence
   i18n: tmquan
   img: /static/assets/img/awards/acmsigai.jpg
