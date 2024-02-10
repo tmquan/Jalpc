@@ -1,76 +1,74 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Campaign Medal (Award of Excellence) in Australian National Chemistry Quiz
+- name: ACM SIGAI Industry Award for Excellence in Artificial Intelligence
   i18n: tmquan
-  img: /static/assets/img/awards/chem_au.jpeg
+  img: /static/assets/img/awards/acmsigai.jpg
   desc: |-
-    Jun 2005
-
-- name: High rank in the National Entrance Examination (Top 10%)
-  i18n: tmquan
-  img: /static/assets/img/awards/hcmut.png
-  desc: |-
-    Jun 2006
-
-- name: Full Undergraduate Scholarship from KAIST
-  i18n: tmquan
-  img: /static/assets/img/awards/kaist.jpeg
-  desc: |-
-    Feb 2008
-
-- name: Full Graduate Scholarship from UNIST
-  i18n: tmquan
-  img: /static/assets/img/awards/unist.png
-  desc: |-
-    Feb 2012
-
-- name: IEEE SPS Travel Grant
-  i18n: tmquan
-  img: /static/assets/img/awards/sps.jpeg
-  desc: |-
-    Jun 2014
-
-- name: KAGGLE challenge - Diabetic Retinopathy Detection, 124th/661 (Top 19%)
-  i18n: tmquan
-  img: /static/assets/img/awards/kaggle.png
-  desc: |-
-    Dec 2014
-
-- name: MICCAI Travel Grant
-  i18n: tmquan
-  img: /static/assets/img/awards/miccai.jpg
-  desc: |-
-    Apr 2015
-
-- name: KAGGLE challenge - Second Annual Data Science Bowl, 65th/192 (Top 34%)
-  i18n: tmquan
-  img: /static/assets/img/awards/kaggle.png
-  desc: |-
-    Dec 2015
-
-- name: MICCAI Travel Grant
-  i18n: tmquan
-  img: /static/assets/img/awards/miccai.jpg
-  desc: |-
-    Apr 2016
-
-- name: NAVER PhD Fellowship
-  i18n: tmquan
-  img: /static/assets/img/awards/naver.png
-  desc: |-
-    Aug 2016
-
+  Aug 2021
 
 - name: ISMRM Educational Stipend
   i18n: tmquan
   img: /static/assets/img/awards/ismrm.jpg
   desc: |-
-    Jun 2018
+  Jun 2018
 
-
-- name: ACM SIGAI Industry Award for Excellence in Artificial Intelligence
+- name: NAVER PhD Fellowship
   i18n: tmquan
-  img: /static/assets/img/awards/acmsigai.jpg
+  img: /static/assets/img/awards/naver.png
   desc: |-
-    Aug 2021
+  Aug 2016
+
+- name: MICCAI Travel Grant
+  i18n: tmquan
+  img: /static/assets/img/awards/miccai.jpg
+  desc: |-
+  Apr 2016
+
+- name: KAGGLE challenge - Second Annual Data Science Bowl, 65th/192 (Top 34%)
+  i18n: tmquan
+  img: /static/assets/img/awards/kaggle.png
+  desc: |-
+  Dec 2015
+
+- name: MICCAI Travel Grant
+  i18n: tmquan
+  img: /static/assets/img/awards/miccai.jpg
+  desc: |-
+  Apr 2015
+
+- name: KAGGLE challenge - Diabetic Retinopathy Detection, 124th/661 (Top 19%)
+  i18n: tmquan
+  img: /static/assets/img/awards/kaggle.png
+  desc: |-
+  Dec 2014
+
+- name: IEEE SPS Travel Grant
+  i18n: tmquan
+  img: /static/assets/img/awards/sps.jpeg
+  desc: |-
+  Jun 2014
+
+- name: Full Graduate Scholarship from UNIST
+  i18n: tmquan
+  img: /static/assets/img/awards/unist.png
+  desc: |-
+  Feb 2012
+
+- name: Full Undergraduate Scholarship from KAIST
+  i18n: tmquan
+  img: /static/assets/img/awards/kaist.jpeg
+  desc: |-
+  Feb 2008
+
+- name: High rank in the National Entrance Examination (Top 10%)
+  i18n: tmquan
+  img: /static/assets/img/awards/hcmut.jpg
+  desc: |-
+  Jun 2006
+
+- name: Campaign Medal (Award of Excellence) in Australian National Chemistry Quiz
+  i18n: tmquan
+  img: /static/assets/img/awards/chem_au.jpeg
+  desc: |-
+  Jun 2005
