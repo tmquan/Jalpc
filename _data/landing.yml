@@ -12,31 +12,11 @@
 #   tpl: career.html
 #   css: timeline
 
-- id: teaching
-  i18n: nav.teaching
-  name: teaching
-  tpl: teaching.html
-  css: timeline
-
-
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
-  css: team
-
 - id: experiences
   i18n: nav.experiences
   name: experiences
   tpl: experiences.html
   css: timeline
-
-
-- id: publications
-  i18n: nav.publications
-  name: publications
-  tpl: publications.html
-  css: publication
 
 - id: education
   i18n: nav.education
@@ -44,6 +24,17 @@
   tpl: education.html
   css: timeline
 
+- id: publications
+  i18n: nav.publications
+  name: publications
+  tpl: publications.html
+  css: publication
+  
+- id: teaching
+  i18n: nav.teaching
+  name: teaching
+  tpl: teaching.html
+  css: timeline
 
 - id: awards
   i18n: nav.awards
@@ -56,6 +47,12 @@
   name: talks
   tpl: talks.html
   css: timeline
+
+- id: skills
+  i18n: nav.skills
+  name: Skills
+  tpl: skills.html
+  css: team
 
 - id: blog
   i18n: nav.blog
