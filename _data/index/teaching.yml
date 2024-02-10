@@ -1,6 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-# https://courses.fit.hcmus.edu.vn/course/view.php?id=3391
+
 
 - name:
     detail: Digital Signal Processing, HCMUS 
@@ -17,6 +17,8 @@
     i18n: 
   icon: fa-plus-square
   present: true
+
+
 
 - name:
     detail: Summer study on Deep Learning for Medical Image Analysis, SNU 
@@ -75,6 +77,7 @@
     i18n: 
   icon: fa-plus-square
 
+
 - name:
     detail: Engineering Programming 1 (ITP107), Undergraduate Course, UNIST 
     i18n: 
@@ -88,6 +91,7 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
+
 
 - name:
     detail: Data Structure (CSE231), Undergraduate Course, UNIST
@@ -103,6 +107,8 @@
     i18n: 
   icon: fa-plus-square
 
+
+
 - name:
     detail: Introduction to Computer Graphics (CSE431), Undergraduate Course, UNIST
     i18n: 
@@ -116,5 +122,3 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
-
-  
