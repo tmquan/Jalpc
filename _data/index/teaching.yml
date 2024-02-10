@@ -122,3 +122,17 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
+
+- name:
+    detail: Ulsan National Institute of Science and Technology (UNIST), South Korea.
+    i18n: 
+  desc:
+    detail: Doctor of Philosophy
+    i18n: 
+  date:
+    detail: 2012 - 2019
+    i18n: 
+  job:
+    detail: Department of Computer Science
+    i18n: 
+  icon: fa-plus-square
