@@ -15,7 +15,8 @@
     i18n: 
   icon: fa-plus-square
   present: true
-  - name:
+
+- name:
     detail: Summer study on Deep Learning for Medical Image Analysis, SNU 
     i18n: 
   desc:
@@ -28,7 +29,8 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
-  - name:
+
+- name:
     detail: Summer study on Machine Learning, SNU
     i18n: 
   desc:
@@ -41,7 +43,8 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
-  
+
+
 - name:
     detail: Heterogeneous Parallel Programming, Coursera 
     i18n: 
@@ -55,7 +58,8 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
-  - name:
+
+- name:
     detail: Massively Parallel Programming (ECE519), Graduate Course, UNIST
     i18n: 
   desc:
@@ -68,7 +72,8 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
-  
+
+
 - name:
     detail: Engineering Programming 1 (ITP107), Undergraduate Course, UNIST 
     i18n: 
@@ -82,7 +87,8 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
-  
+
+
 - name:
     detail: Data Structure (CSE231), Undergraduate Course, UNIST
     i18n: 
@@ -96,7 +102,8 @@
     detail: Teaching Assistant
     i18n: 
   icon: fa-plus-square
-  
+
+
 - name:
     detail: Introduction to Computer Graphics (CSE431), Undergraduate Course, UNIST
     i18n: 
